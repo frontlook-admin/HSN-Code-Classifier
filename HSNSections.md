@@ -1,0 +1,25 @@
+# HSNSections.md
+
+## Contains the list of HSN sections and their descriptions.
+
+- Section 1 : Live Animals; Animal Products - This section covers live animals; animal products such as live horses, asses, mules and hinnies, live bovine animals, live swine, live sheep and goats, etc.
+
+- Section 2 : Vegetable Products - This section covers vegetable products such as live trees and other plants; bulbs, roots and the like; cut flowers and ornamental foliage, edible vegetables and certain roots and tubers, edible fruit and nuts; peel of citrus fruit or melons, coffee, tea, mate and spices, cereals, oil seeds and oleaginous fruits, miscellaneous grains, seeds and fruit, industrial or medicinal plants, straw and fodder, lac; gums, resins and other vegetable saps and extracts, vegetable plaiting materials, vegetable products not elsewhere specified or included, etc.
+
+- Section 3 : Animal or Vegetable Fats and Oils and their cleavage Products; Prepared Edible Fats; Animal or Vegetable Waxes - This section covers animal or vegetable fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes such as animal or vegetable fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes, etc.
+
+- Section 4 : Prepared Foodstuffs; Beverages, Spirits and Vinegar; Tobacco and Manufactured Tobacco Substitutes - This section covers prepared foodstuffs; beverages, spirits and vinegar; tobacco and manufactured tobacco substitutes such as dairy produce; birds' eggs; natural honey; edible products of animal origin, not elsewhere specified or included, products of animal origin, not elsewhere specified or included, animal or vegetable fats and oils and their cleavage products; prepared edible fats; animal or vegetable waxes, prepared foodstuffs; beverages, spirits and vinegar, tobacco and manufactured tobacco substitutes, etc.
+
+- Section 5 : Mineral Products - This section covers mineral products such as salt; sulphur; earths and stone; plastering materials, lime and cement, ores, slag and ash, mineral fuels, mineral oils and products of their distillation; bituminous substances; mineral waxes, etc.
+
+- Section 6 : Products of the Chemical or Allied Industries - This section covers products of the chemical or allied industries such as inorganic chemicals; organic or inorganic compounds of precious metals, of rare-earth metals, of radioactive elements or of isotopes, organic chemicals, pharmaceutical products, fertilisers, tanning or dyeing extracts; tannins and their derivatives; dyes, pigments and other colouring matter; paints and varnishes; putty and other mastics; inks, essential oils and resinoids; perfumery, cosmetic or toilet preparations, soap, organic surface-active agents, washing preparations, lubricating preparations, artificial waxes, prepared waxes, polishing or scouring preparations, candles and similar articles, modelling pastes, "dental waxes" and dental preparations with a basis of plaster, albuminoidal substances; modified starches; glues; enzymes, explosives; pyrotechnic products; matches; pyrophoric alloys; certain combustible preparations, photographic or cinematographic goods, miscellaneous chemical products, etc.
+
+- Section 7 : Plastics and Articles thereof; Rubber and Articles thereof - This section covers plastics and articles thereof; rubber and articles thereof such as plastics and articles thereof, rubber and articles thereof, etc.
+
+- Section 8 : Raw Hides and Skins, Leather, Furskins and Articles thereof; Saddlery and Harness; Travel Goods, Handbags and Similar Containers; Articles of Animal Gut (Other than Silk-Worm Gut) - This section covers raw hides and skins, leather, furskins and articles thereof; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut) such as raw hides and skins (other than furskins) and leather, articles of leather; saddlery and harness; travel goods, handbags and similar containers; articles of animal gut (other than silk-worm gut), etc.
+
+- Section 9 : Wood and Articles of Wood; Wood Charcoal; Cork and Articles of Cork; Manufactures of Straw, of Esparto or of other Plaiting Materials; Basketware and Wickerwork - This section covers wood and articles of wood; wood charcoal; cork and articles of cork; manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork such as wood and articles of wood; wood charcoal; cork and articles of cork; manufactures of straw, of esparto or of other plaiting materials; basketware and wickerwork, etc.
+
+- Section 10 : Pulp of Wood or of other Fibrous Cellulosic Material; Recovered (Waste and Scrap) Paper or Paperboard; Paper and Paperboard and Articles thereof - This section covers pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard; paper and paperboard and articles thereof such as pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard; paper and paperboard and articles thereof, etc.
+
+- Section 11 : 

@@ -1,0 +1,314 @@
+[
+  {
+    "StateId": 0,
+    "StateName": "Andaman and Nicobar Islands",
+    "StateCode": "AN",
+    "Country": "India",
+    "GovId": "35",
+    "IsUT": true
+  },
+  {
+    "StateId": 0,
+    "StateName": "Andhra Pradesh",
+    "StateCode": "AP",
+    "Country": "India",
+    "GovId": "37",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Arunachal Pradesh",
+    "StateCode": "AP",
+    "Country": "India",
+    "GovId": "12",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Assam",
+    "StateCode": "AS",
+    "Country": "India",
+    "GovId": "18",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Bihar",
+    "StateCode": "BR",
+    "Country": "India",
+    "GovId": "10",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Chandigarh",
+    "StateCode": "CH",
+    "Country": "India",
+    "GovId": "04",
+    "IsUT": true
+  },
+  {
+    "StateId": 0,
+    "StateName": "Chhattisgarh",
+    "StateCode": "CG",
+    "Country": "India",
+    "GovId": "22",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Dadra and Nagar Haveli",
+    "StateCode": "DN",
+    "Country": "India",
+    "GovId": "26",
+    "IsUT": true
+  },
+  {
+    "StateId": 0,
+    "StateName": "Daman and Diu",
+    "StateCode": "DD",
+    "Country": "India",
+    "GovId": "25",
+    "IsUT": true
+  },
+  {
+    "StateId": 0,
+    "StateName": "Delhi",
+    "StateCode": "DL",
+    "Country": "India",
+    "GovId": "07",
+    "IsUT": true
+  },
+  {
+    "StateId": 0,
+    "StateName": "Goa",
+    "StateCode": "GA",
+    "Country": "India",
+    "GovId": "30",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Gujarat",
+    "StateCode": "GJ",
+    "Country": "India",
+    "GovId": "24",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Haryana",
+    "StateCode": "HR",
+    "Country": "India",
+    "GovId": "06",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Himachal Pradesh",
+    "StateCode": "HP",
+    "Country": "India",
+    "GovId": "02",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Jammu and Kashmir",
+    "StateCode": "JK",
+    "Country": "India",
+    "GovId": "01",
+    "IsUT": true
+  },
+  {
+    "StateId": 0,
+    "StateName": "Jharkhand",
+    "StateCode": "JH",
+    "Country": "India",
+    "GovId": "20",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Karnataka",
+    "StateCode": "KA",
+    "Country": "India",
+    "GovId": "29",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Kerala",
+    "StateCode": "KL",
+    "Country": "India",
+    "GovId": "32",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Ladakh",
+    "StateCode": "LA",
+    "Country": "India",
+    "GovId": "38",
+    "IsUT": true
+  },
+  {
+    "StateId": 0,
+    "StateName": "Lakshadweep",
+    "StateCode": "LD",
+    "Country": "India",
+    "GovId": "31",
+    "IsUT": true
+  },
+  {
+    "StateId": 0,
+    "StateName": "Madhya Pradesh",
+    "StateCode": "MP",
+    "Country": "India",
+    "GovId": "23",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Maharashtra",
+    "StateCode": "MH",
+    "Country": "India",
+    "GovId": "27",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Manipur",
+    "StateCode": "MN",
+    "Country": "India",
+    "GovId": "14",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Meghalaya",
+    "StateCode": "ML",
+    "Country": "India",
+    "GovId": "17",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Mizoram",
+    "StateCode": "MZ",
+    "Country": "India",
+    "GovId": "15",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Nagaland",
+    "StateCode": "NL",
+    "Country": "India",
+    "GovId": "13",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Odisha",
+    "StateCode": "OR",
+    "Country": "India",
+    "GovId": "21",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Puducherry",
+    "StateCode": "PY",
+    "Country": "India",
+    "GovId": "34",
+    "IsUT": true
+  },
+  {
+    "StateId": 0,
+    "StateName": "Punjab",
+    "StateCode": "PB",
+    "Country": "India",
+    "GovId": "03",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Rajasthan",
+    "StateCode": "RJ",
+    "Country": "India",
+    "GovId": "08",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Sikkim",
+    "StateCode": "SK",
+    "Country": "India",
+    "GovId": "11",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Tamil Nadu",
+    "StateCode": "TN",
+    "Country": "India",
+    "GovId": "33",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Telangana",
+    "StateCode": "TS",
+    "Country": "India",
+    "GovId": "36",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Tripura",
+    "StateCode": "TR",
+    "Country": "India",
+    "GovId": "16",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Uttar Pradesh",
+    "StateCode": "UP",
+    "Country": "India",
+    "GovId": "09",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Uttarakhand",
+    "StateCode": "UA",
+    "Country": "India",
+    "GovId": "05",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "West Bengal",
+    "StateCode": "WB",
+    "Country": "India",
+    "GovId": "19",
+    "IsUT": false
+  },
+  {
+    "StateId": 0,
+    "StateName": "Other Territory",
+    "StateCode": "0T",
+    "Country": "India",
+    "GovId": "97",
+    "IsUT": true
+  },
+  {
+    "StateId": 0,
+    "StateName": "Other Country",
+    "StateCode": "0C",
+    "Country": "India",
+    "GovId": "98",
+    "IsUT": true
+  }
+]
