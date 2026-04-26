@@ -112,13 +112,6 @@
     "IGST": "5%"
   },
   {
-    "hsn": "&#xA0;",
-    "description": "Omitted",
-    "CGST": "&#xA0;",
-    "SGST": "&#xA0;",
-    "IGST": "&#xA0;"
-  },
-  {
     "hsn": "0401",
     "description": "Fresh&#xA0; milk&#xA0; and&#xA0; pasteurised&#xA0; milk,&#xA0; including&#xA0; separated milk,&#xA0; milk&#xA0; and&#xA0; cream,&#xA0; not&#xA0; concentrated&#xA0; nor&#xA0; containing added sugar or other sweetening matter, excluding Ultra High Temperature (UHT) milk",
     "CGST": "0",
